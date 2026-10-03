@@ -1,0 +1,1 @@
+we will be covering git|github,html,css,javascript,AI Promting and deployment
